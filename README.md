@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 I'm a software engineer who is passionate about writing code that can have an impact and solve real problems. Some technologies I enjoy working with include Python, ReactJS and Machine Learning tools. 
 
+Starting out in opensource ^-^
+
 ## Find me around the web 🌎: 
 - <a href="https://www.linkedin.com/in/purvivmisal/">LinkedIn</a> 💼
