@@ -1,4 +1,4 @@
-### Hi I'm Purvi 👋|💻 
+### Hi I'm Purvi :woman: | 👋|💻 
 
 <!--
 **purvimisal/purvimisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software engineer who is passionate about writing code that can have an impact and solve real problems. Some technologies I enjoy working with include Python, ReactJS and Machine Learning tools. 
+I'm a software engineer who is passionate about writing code that can have an impact and solve real problems.  My areas of interest include Backend engineering, Full-stack development, Data Engineering, and Data Science. Some of the technologies I enjoy working with are Python, ReactJS and Data Science. 
 
-Starting out with Open Source Contribution throught Hacktoberfest ^_^
+Starting out with Open Source Contribution through Hacktoberfest'2020 :blush:
 
 ## Find me around the web 🌎: 
 - <a href="https://www.linkedin.com/in/purvivmisal/">LinkedIn</a> 💼
