@@ -21,3 +21,4 @@ Starting out with Open Source Contribution through Hacktoberfest'2020 :blush:
 
 ## Find me around the web 🌎: 
 - <a href="https://www.linkedin.com/in/purvivmisal/">LinkedIn</a> 💼
+- <a href="https://dev.to/purvimisal">Dev.to</a> :computer:
