@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software engineer who is passionate about writing code that can have an impact and solve real problems.  My areas of interest include Backend engineering, Full-stack development, Data Engineering, and Data Science. Some of the technologies I enjoy working with are Python, ReactJS and Data Science. 
+I'm a software engineer who is passionate about writing code that can have an impact and solve real problems.  My areas of interest include Backend engineering, Full-stack development, Data Engineering, and Data Science. Some of the technologies I enjoy working with are Python, OOP and Data Science. 
 
 Starting out with Open Source Contribution through Hacktoberfest'2020 :blush:
 
